@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/betstream/!svn/ver/12804/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius
+END
+ConfigOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/betstream/!svn/ver/12393/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius/ConfigOperations.java
+END
+URLFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/betstream/!svn/ver/12393/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius/URLFile.java
+END
+DriverProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/betstream/!svn/ver/12804/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius/DriverProvider.java
+END
+SeleniumTestAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/betstream/!svn/ver/12804/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius/SeleniumTestAnalyzer.java
+END
+DriverType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/betstream/!svn/ver/12796/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/java/com/betgenius/DriverType.java
+END

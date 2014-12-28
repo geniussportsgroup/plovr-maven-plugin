@@ -1,0 +1,41 @@
+8
+
+dir
+12808
+https://code.betgenius.com/svn/betstream/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/resources/driverbin/osx
+https://code.betgenius.com/svn/betstream
+
+
+
+2014-07-07T13:51:59.345981Z
+11964
+Stefan.Liebenberg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+400442a5-a964-4b60-adc6-4fdbb8d7c64c
+
+chromedriver
+file
+
+
+
+
+2014-07-07T13:54:46.000000Z
+51d2b715138e098d3a417112674cdbaf
+2014-07-07T13:51:59.345981Z
+11964
+Stefan.Liebenberg
+has-props
+

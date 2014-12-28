@@ -1,0 +1,5 @@
+{
+	"id":"second",
+	"paths":["../../test/javascript"],
+	"inputs":"../../test/javascript/third_passes_test.js"
+}

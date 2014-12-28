@@ -1,0 +1,54 @@
+8
+
+dir
+12808
+https://code.betgenius.com/svn/betstream/plovr-maven-plugin/trunk/plovr-maven-plugin/lib
+https://code.betgenius.com/svn/betstream
+
+
+
+2014-07-31T13:49:38.423943Z
+12393
+michael.patel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+400442a5-a964-4b60-adc6-4fdbb8d7c64c
+
+plovr.backup
+file
+
+
+
+
+2014-07-31T13:50:30.000000Z
+50ad388b6077f1843d059ffa294a98fb
+2014-07-31T13:49:38.423943Z
+12393
+michael.patel
+has-props
+
+plovr.jar
+file
+
+
+
+
+2014-07-31T13:50:30.000000Z
+a8612db377b57e7b8541bc98bcab9dd9
+2014-07-31T13:49:38.423943Z
+12393
+michael.patel
+has-props
+

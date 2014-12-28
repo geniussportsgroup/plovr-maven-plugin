@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component-set>
+  <components>
+    <component>
+      <role>com.betgenius.DriverProvider</role>
+      <role-hint>default</role-hint>
+      <implementation>com.betgenius.DriverProvider</implementation>
+      <description />
+      <isolated-realm>false</isolated-realm>
+    </component>
+    <component>
+      <role>com.betgenius.ConfigOperations</role>
+      <role-hint>default</role-hint>
+      <implementation>com.betgenius.ConfigOperations</implementation>
+      <description />
+      <isolated-realm>false</isolated-realm>
+    </component>
+    <component>
+      <role>com.betgenius.SeleniumTestAnalyzer</role>
+      <role-hint>selenium</role-hint>
+      <implementation>com.betgenius.SeleniumTestAnalyzer</implementation>
+      <description />
+      <isolated-realm>false</isolated-realm>
+      <requirements>
+        <requirement>
+          <role>com.betgenius.DriverProvider</role>
+          <role-hint />
+          <field-name>driverProvider</field-name>
+        </requirement>
+      </requirements>
+    </component>
+  </components>
+</component-set>

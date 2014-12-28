@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/betstream/!svn/ver/12080/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/resources
+END
+plovr-config.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/betstream/!svn/ver/11197/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/resources/plovr-config.json
+END
+plovr-second-config.json
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/betstream/!svn/ver/11249/plovr-maven-plugin/trunk/plovr-maven-plugin/src/main/resources/plovr-second-config.json
+END
