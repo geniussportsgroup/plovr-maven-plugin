@@ -1,5 +1,5 @@
-
 package com.betgenius.maven.plovr;
+
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
