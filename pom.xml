@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.betgenius</groupId>
 	<artifactId>plovr-maven-plugin</artifactId>
-	<version>1.0.6</version>
+	<version>1.0.7-SNAPSHOT</version>
 	<name>Plovr Maven Plugin</name>
 	<description>Support for running plovr commands ( mainly tests ) from the maven build.</description>
 	<packaging>maven-plugin</packaging>
