@@ -3,7 +3,13 @@ Plovr Maven Plugin
 
 This maven plugin acts as a simple wrapper around the plovr engine to facilitate easier integration into java projects. 
 
-Currently there's no central repo jar available for direct inclusion so you'll have to build and deploy to your artifact manager manually. 
+Currently there's no central repo jar available for direct inclusion so you'll have to build and deploy to your artifact manager manually.
+
+Additionally the plovr dependency itself doesn't have a copy in central, i've packed a custom version in the lib directory, which you can run 
+
+mvn install:install-file -Dfile=plovr.jar -DgroupId=com.betgenius -DartifactId=plovr -Dversion=1.0 -Dpackaging=jar
+
+to install to your local repo, or deploy to nexus the standard way.
 
 
 ## Usage
@@ -14,7 +20,7 @@ Currently there's no central repo jar available for direct inclusion so you'll h
             <plugin>
                 <groupId>com.betgenius</groupId>
                 <artifactId>plovr-maven-plugin</artifactId>
-                <version>1.0.6-SNAPSHOT</version>
+                <version>1.0.7-SNAPSHOT</version>
                 <executions>
                     <execution>
                         <id>compilejs</id>
@@ -43,7 +49,7 @@ Currently there's no central repo jar available for direct inclusion so you'll h
                     <plugin>
                         <groupId>com.betgenius</groupId>
                         <artifactId>plovr-maven-plugin</artifactId>
-                        <version>1.0.6-SNAPSHOT</version>
+                        <version>1.0.7-SNAPSHOT</version>
                         <executions>
                             <execution>
                                 <id>testjs</id>
